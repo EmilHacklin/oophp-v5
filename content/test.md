@@ -1,8 +1,7 @@
 ---
 title: "Test"
 ---
-Test routes
-==========================
+#Test routes
 
 This page is written in markdown in the file `content/test.md`.
 

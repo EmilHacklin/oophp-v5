@@ -1,1 +1,1 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+ [Copyright&copy; 2020](https://lagen.nu/1960:729) [Emil Hacklin](https://github.com/EmilHacklin).

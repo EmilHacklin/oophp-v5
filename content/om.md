@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,22 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
+    byline:
+        region: main
+        template: anax/v2/block/default
+        sort: 2
+        data:
+            meta:
+                type: single
+                route: block/byline
 ---
-Om
-=========================
+# Om
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+[FIGURE src=img/leaf_256x256.png class="right" caption="dbwebbs loga."]
 
-Skriv några kloka ord om kursen?
+Kursen DV1608/PA1440 V20 lp4 Objektorienterade webbteknologier också kallad oophp går igenom objektorienterad programmering i PHP.
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+Kursen ges i samband med programmen Webbprogrammering och kurspaketet Webbprogrammering och Databaser.

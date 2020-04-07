@@ -1,3 +1,3 @@
-#### Footer col 3
+#### Kontaktinformation
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[Email](mailto:emil.hacklin@gmail.com)
